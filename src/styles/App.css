@@ -4,6 +4,7 @@
     box-sizing: border-box;
     margin: var(--App-margin);
     width: calc(100vw - calc(2 * var(--App-margin)));
+    height: fit-content;
     min-height: calc(100vh - calc(2 * var(--App-margin)));
 }
 .App-main
