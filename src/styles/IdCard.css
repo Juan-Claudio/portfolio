@@ -1,0 +1,63 @@
+.IdCard-container
+{    
+    border: var(--border_width) var(--lgray) solid;
+    border-collapse: collapse;
+
+    margin:30px; padding:0; padding-top: 20px;
+    position: relative;
+
+    width: 300px; height: fit-content;
+
+    text-align:center;
+}
+.IdCard-title_btn
+{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin: 0; padding: 0;
+    width:100%; height: fit-content;
+    font-family: 'telegrama_raw', monospace;
+    color: var(--lgray);
+}
+.IdCard-title
+{
+    background-color: #000;
+    padding-left: 10px; padding-right:10px;
+    position: absolute; top:var(--IdCard_offset);
+    width: fit-content;
+}
+.IsCard-more_less_btn
+{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    margin:0;
+    width:100%;
+    font-family: 'telegram', monospace;
+    font-size: large;
+    color: var(--lgray);
+}
+.IdCard-more_info
+{
+    
+}
+.IdCard-less_info
+{
+    display:none;
+}
+aside
+{
+    border-bottom: var(--border_width) var(--lgray) solid;
+    padding: 5px; padding-bottom: 0;
+}
+.IdCard-description
+{
+    border-bottom: var(--border_width) var(--lgray) dashed;
+}
+.IdCard-date{ margin-bottom: 0; padding-bottom: 5px; }

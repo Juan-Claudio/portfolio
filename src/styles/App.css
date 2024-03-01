@@ -1,0 +1,15 @@
+.App
+{
+    border: var(--border_width) var(--lgray) solid;
+    box-sizing: border-box;
+    margin: var(--App-margin);
+    width: calc(100vw - calc(2 * var(--App-margin)));
+    height: calc(100vh - calc(2 * var(--App-margin)));
+}
+.App-main
+{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
