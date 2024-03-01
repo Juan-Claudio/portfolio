@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Random Quotes",
+        "url": "https://www.sabeludia.com/apps/random_quote_machine_fcc/",
+        "languages": ["js","html","css"],
+        "lib": ["react","redux"],
+        "description": "An application that displays quotes randomly. This is the first project out of five, based on the 'Front End Development Libraries' curriculum from freecodecamp.org.",
+        "githubLink": "https://github.com/Juan-Claudio/fcc-react-random-quote-machine",
+        "date": "02/2024"
+    },
+    {
+        "name": "Markdown Previewer",
+        "url": "https://www.sabeludia.com/apps/markdown-previewer_react-redux-fcc/",
+        "languages": ["js","html","css"],
+        "lib": ["react","redux"],
+        "description": "A Markdown previewer, the second project out of five in freecodecamp.org based on the 'Front End Development Libraries' curriculum from freecodecamp.org.",
+        "githubLink": "https://github.com/Juan-Claudio/fcc-react-markdown-previewer",
+        "date": "02/2024"
+    },
+    {
+        "name": "Portfolio",
+        "url": "https://www.sabeludia.com/apps/portfolio/",
+        "languages": ["js","html","css"],
+        "lib": ["react"],
+        "description": "My portfolio showcases a selection of my work from recent years.",
+        "githubLink": "https://github.com/Juan-Claudio/portfolio",
+        "date": "02/2024"
+    }
+]
