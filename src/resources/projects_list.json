@@ -18,6 +18,15 @@
         "date": "02/2024"
     },
     {
+        "name": "RepSpace",
+        "url": "https://www.sabeludia.com/apps/repspace/",
+        "languages": ["js","html","css"],
+        "lib": ["react","redux"],
+        "description": "In this game, players program a blue oriented circle to navigate through a maze of obstacles by arranging a sequence of directional arrows. The challenge lies in planning an efficient path to reach the goal while avoiding obstacles along the way. Based on 42 french school admission tests.",
+        "githubLink": "https://github.com/Juan-Claudio/repspace",
+        "date": "03/2024"
+    },
+    {
         "name": "Portfolio",
         "url": "https://www.sabeludia.com/apps/portfolio/",
         "languages": ["js","html","css"],
