@@ -1,5 +1,14 @@
 [
     {
+        "name": "Matesguay",
+        "url": "https://www.sabeludia.com/apps/matesguay/",
+        "languages": ["js","html","css"],
+        "lib": [""],
+        "description": "version:2.0.1\nThis application aims to enhance mental arithmetic skills. Inspired by the game RISK, this educational game replaces soldiers with deputies and wars with voting. Traditional dice have been replaced with mental arithmetic challenges.",
+        "githubLink": "https://github.com/Juan-Claudio/matesguay",
+        "date": "02/2023"
+    },
+    {
         "name": "Random Quotes",
         "url": "https://www.sabeludia.com/apps/random_quote_machine_fcc/",
         "languages": ["js","html","css"],
