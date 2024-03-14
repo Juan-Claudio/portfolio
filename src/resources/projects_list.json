@@ -4,9 +4,18 @@
         "url": "https://www.sabeludia.com/apps/matesguay/",
         "languages": ["js","html","css"],
         "lib": ["jquery"],
-        "description": "version:2.0.1\nThis application aims to enhance mental arithmetic skills. Inspired by the game RISK, this educational game replaces soldiers with deputies and wars with voting. Traditional dice have been replaced with mental arithmetic challenges.",
+        "description": "[version:2.0.1] · This application aims to enhance mental arithmetic skills. Inspired by the game RISK, this educational game replaces soldiers with deputies and wars with voting. Traditional dice have been replaced with mental arithmetic challenges.",
         "githubLink": "https://github.com/Juan-Claudio/matesguay",
         "date": "02/2023"
+    },
+    {
+        "name": "Silent World",
+        "url": "https://www.sabeludia.com/apps/matesguay/",
+        "languages": ["js","html","css"],
+        "lib": ["jquery"],
+        "description": "[version:2.0] · Escape game. Follow the clues and solve puzzles to uncover what's happening.",
+        "githubLink": "https://github.com/Juan-Claudio/silent_world",
+        "date": "09/2023"
     },
     {
         "name": "Random Quotes",
