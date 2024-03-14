@@ -1,11 +1,12 @@
 import React from "react";
 import '../styles/Logos.css'
 import ic_py from '../img/logos/python.png'
-import ic_js from '../img/logos/js.png'
+import ic_js from '../img/logos/js.svg'
 import ic_html from '../img/logos/html.png'
 import ic_css from '../img/logos/css.png'
 import ic_react from '../img/logos/reactjs.png'
 import ic_redux from '../img/logos/redux.svg'
+import ic_jquery from '../img/logos/jquery.svg'
 
 const techToDetail = {
     py: ['Python', ic_py, 'blue-yellow'],
@@ -13,7 +14,8 @@ const techToDetail = {
     html: ['HTML', ic_html, 'red'],
     css: ['CSS', ic_css, 'blue'],
     react: ['React', ic_react, 'cyan'],
-    redux: ['Redux', ic_redux, 'violet']
+    redux: ['Redux', ic_redux, 'violet'],
+    jquery: ['jquery',ic_jquery,'blue']
 }
 
 export default class Logos extends React.Component
