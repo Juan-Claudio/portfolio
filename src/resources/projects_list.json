@@ -10,10 +10,10 @@
     },
     {
         "name": "Silent World",
-        "url": "https://www.sabeludia.com/apps/matesguay/",
+        "url": "https://www.sabeludia.com/apps/silent_world/?=0",
         "languages": ["js","html","css"],
         "lib": ["jquery"],
-        "description": "[version:2.0] · Escape game. Follow the clues and solve puzzles to uncover what's happening.",
+        "description": "[version:2.0] · Escape game. Follow the clues and solve puzzles to uncover what's happening. Available in English, Spanish and French",
         "githubLink": "https://github.com/Juan-Claudio/silent_world",
         "date": "09/2023"
     },
